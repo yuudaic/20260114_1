@@ -859,6 +859,11 @@ img {
     background: radial-gradient(circle at top right, rgba(245, 158, 11, 0.2), transparent 40%);
 }
 
+.section-cta .container {
+    position: relative;
+    z-index: 1;
+}
+
 .cta-title {
     font-size: 2rem;
     font-weight: 900;
